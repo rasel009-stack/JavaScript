@@ -7,3 +7,9 @@ function add(x, y){
 }
 
 console.log(add(5,6)) 
+
+function division (a, b){
+    return(a/b)
+}
+
+console.log(division(add(7, 9),10))
