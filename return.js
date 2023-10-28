@@ -13,3 +13,14 @@ function division (a, b){
 }
 
 console.log(division(add(7, 9),10))
+console.log('Rezwan Rasel')
+
+function calc(i, j){
+    if(i< 5){
+        return i * 5
+    }else{
+        return i * j
+    }
+}
+
+console.log(calc(5, 9))
